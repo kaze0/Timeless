@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mikedg",
+    "longName": "Timeless",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_bar_config.png",
+                "name": "IMAGE_ACTION_BAR_CONFIG",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_reset.png",
+                "name": "IMAGE_ACTION_BAR_RESET",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Timeless",
+    "uuid": "2beec8f3-b0e9-4004-98e4-192c3fc0b344",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
